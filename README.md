@@ -1,6 +1,6 @@
 # 2021_worm_steno_interactions
 
-Data and Code repositoory for our paper on the interactions of _Stenotrophomonas_ and _Caenorhabditis_
+Data and Code repository for our paper on the interactions of _Stenotrophomonas_ and _Caenorhabditis_
 
 This work is in review at [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology) in the section of [Microbiome in Health andd Disease](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/sections/microbiome-in-health-and-disease) under the research topic of [C. elegans Host-Microbiome Interactions: From Medical to Ecological and Evolutionary Model](https://www.frontiersin.org/research-topics/19033/c-elegans-host-microbiome-interactions-from-medical-to-ecological-and-evolutionary-model)
 
